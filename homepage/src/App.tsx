@@ -53,7 +53,7 @@ const router = createHashRouter(
             ],
         },
         {
-            path: "/instead_of_me_homepage",
+            path: "/homepage",
             element: <Layout />,
             errorElement: <NotFound />,
             children: [
