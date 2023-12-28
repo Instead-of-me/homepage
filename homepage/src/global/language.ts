@@ -184,7 +184,7 @@ const LANGUAGE: ILanguage[] = [
         제작과정궁금해요: "About production process 🤔",
         카카오톡문의: "Go to KakaoTalk Channel 😎",
         샘플은없나요: "Are there any samples? 😞",
-        사업자정보확인: "Check business information 🧑‍💼",
+        사업자정보확인: "Business information 🧑‍💼",
         사업자정보: "Business information",
         사업자명: "Business name: Instead of me",
         대표: "CEO: Yuhyun Kim",
