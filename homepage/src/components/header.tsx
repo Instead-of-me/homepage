@@ -6,6 +6,7 @@ import {
     Menu,
     MenuButton,
     MenuList,
+    Heading,
 } from "@chakra-ui/react";
 import { go_to_id, refresh } from "../util/utils";
 import { useMotionValueEvent, useScroll } from "framer-motion";
@@ -91,14 +92,19 @@ export default function Header() {
                     lg: "150px",
                 }}
                 maxW={{
-                    base: "100px",
-                    md: "120px",
-                    lg: "150px",
+                    base: "130px",
+                    md: "150px",
+                    lg: "180px",
                 }}
+                fontSize={{
+                    base: "18px",
+                    lg: "24px",
+                }}
+                fontWeight="extrabold"
                 _hover={{ cursor: "pointer" }}
                 onClick={onLogoClick}
             >
-                <Image src={logo} objectFit="cover" />
+                <Text>Instead of me</Text>
             </Box>
             <HStack
                 fontSize={{
