@@ -64,7 +64,7 @@ export default function PhoneMobile({ clicked }: { clicked: boolean }) {
             // transition={"all 0.2s linear"}
         >
             <HStack w="100%" mb="30px" justifyContent="space-between">
-                <Text fontWeight="bold">Instead of me, 야 해줘</Text>
+                <Text fontWeight="bold">Instead of me</Text>
                 <Center
                     w="25px"
                     h="25px"
@@ -83,7 +83,7 @@ export default function PhoneMobile({ clicked }: { clicked: boolean }) {
             <HStack spacing={0} alignItems="flex-end">
                 <Avatar size={50} border={false} hover={false} />
                 <VStack alignItems={"flex-start"} ml="20px">
-                    <Text fontSize="12px">Instead of me, 야 해줘</Text>
+                    <Text fontSize="12px">Instead of me</Text>
                     <Box
                         w="240px"
                         h="300px"
