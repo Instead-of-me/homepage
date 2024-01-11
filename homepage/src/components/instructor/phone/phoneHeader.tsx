@@ -16,7 +16,7 @@ export default function PhoneHeader() {
 
     return (
         <HStack w="100%" justifyContent="space-between">
-            <Text fontWeight="bold">Instead of me, 야 해줘</Text>
+            <Text fontWeight="bold">Instead of me</Text>
             <Center
                 w="25px"
                 h="25px"

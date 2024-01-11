@@ -119,8 +119,8 @@ const LANGUAGE: ILanguage[] = [
         사업자명: "사업자명: Instead of me",
         대표: "대표: 김유현",
         사업자번호: "사업자번호: 442-54-00852",
-        이메일: "이메일: insteadofme.yuhyeon@gmail.com",
-        주소: "주소: 경기도 화성시 병점중앙로170번길 16-8, 202호",
+        이메일: "이메일: insteadofme.service@gmail.com",
+        주소: "주소: 경기도 화성시 병점중앙로170번길 16-8",
     },
     {
         "외주, 그 이상의": "We are creating value",
@@ -190,7 +190,7 @@ const LANGUAGE: ILanguage[] = [
         대표: "CEO: Yuhyun Kim",
         사업자번호: "Business number: 442-54-00852",
         이메일: "Email: insteadofme.yuhyeon@gmail.com",
-        주소: "Address: Room 202, 16-8, Byeongjeomjungang-ro 170beon-gil, Hwaseong-si, Gyeonggi-do",
+        주소: "Address: 16-8, Byeongjeomjungang-ro 170beon-gil, Hwaseong-si, Gyeonggi-do",
     },
 ];
 

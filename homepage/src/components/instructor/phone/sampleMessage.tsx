@@ -24,7 +24,7 @@ export default function SampleMessage() {
         <HStack spacing={0} alignItems="flex-end">
             <Avatar size={50} border={false} hover={false} />
             <VStack alignItems={"flex-start"} ml="20px">
-                <Text fontSize="12px">Instead of me, 야 해줘</Text>
+                <Text fontSize="12px">Instead of me</Text>
                 <Box
                     w={isMobile ? "240px" : "280px"}
                     h="300px"
