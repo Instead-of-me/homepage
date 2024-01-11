@@ -186,7 +186,7 @@ export default function Contact() {
                                 textDecoration: "underline",
                             }}
                         >
-                            @insteadofme(야, 해줘)
+                            @instead-of-me
                         </Text>
                     </HStack>
                     <Box
